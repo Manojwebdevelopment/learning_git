@@ -1,3 +1,9 @@
-hello world
-hi how are you
-manoj this side
+git clone URL of git repo
+
+git status
+
+git add .
+
+git commit -m " commit message"
+
+git push
